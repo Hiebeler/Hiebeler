@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emanuel</h1>
-<h3 align="center">Developer of the Pixelfed client **Pixelix** and other interesting projects</h3>
+<h3 align="center">Developer of the Pixelfed client Pixelix and other interesting projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiebeler&label=Profile%20views&color=ff00bb&style=flat" alt="hiebeler" /> </p>
 
